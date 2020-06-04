@@ -1,2 +1,0 @@
-This is a new file 
- We are adding spaces between each sentence using backslash n.
