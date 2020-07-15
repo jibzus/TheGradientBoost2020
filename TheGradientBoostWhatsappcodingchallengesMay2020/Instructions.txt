@@ -1,8 +1,0 @@
-Here is your weekly programming challenge: 
-
-1. Import load boston from sklearn.datasets. 
-2. Let data be load boston(). 
-3. Let boston be pd.DataFrame(data.data) and assign the values of the columns using the feature names in our dataset using data.feature names. 
-4. Now return scatter plots showing the relationship between each feature (column). 
-5. Assign data.target to a new column in your dataframe named boston. Name this column 'price'. 
-6. Return a correlation matrix showing the correlation coefficient values between each column.
